@@ -1,0 +1,3 @@
+BOT_TOKEN = '{BOT_TOKEN}'
+API_KEY = '{API_KEY}'
+API_URL = '{API_URL}'
